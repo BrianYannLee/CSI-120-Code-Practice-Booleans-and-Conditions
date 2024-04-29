@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSI 120 Code Practice Booleans and Conditions", "CSI 120 Code Practice Booleans and Conditions.csproj", "{C8D7D8E9-4DFF-4601-BA33-2339F226C7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D7D8E9-4DFF-4601-BA33-2339F226C7BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D7D8E9-4DFF-4601-BA33-2339F226C7BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D7D8E9-4DFF-4601-BA33-2339F226C7BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D7D8E9-4DFF-4601-BA33-2339F226C7BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A44D9A-9918-4D08-88C8-7742C911A3E6}
+	EndGlobalSection
+EndGlobal
